@@ -1,0 +1,35 @@
+https://randomwordgenerator.com/
+https://randomwordgenerator.com/json/words.json
+- api with huge dataset to generate random word 
+
+tesseract ocr
+https://github.com/thiagoalessio/tesseract-ocr-for-php
+- convert image to text api&software
+
+https://laravel.com/docs/10.x/blade
+-laravel documentation on laravel blade view functions & structure
+
+https://laravel.com/docs/10.x/installation
+- laravel installation documentation
+
+https://laravel.com/docs/10.x/queries
+- laravel documentation for queries
+
+https://laravel.com/docs/10.x/filesystem
+- laravel documentation for file/images storage and upload
+
+https://laravel.com/docs/10.x/eloquent
+- laravel documentation for laravel MVC structure
+
+https://laravel.com/docs/10.x/eloquent-relationships
+- laravel documentation for database relationships between tables
+
+https://github.com/wyndow/fuzzywuzzy
+- dataset to calculate accuracy percentage for strings
+
+https://www.php.net/manual/en/function.str-replace.php
+- remove/replace unnecessary words from a string
+
+https://www.php.net/manual/en/function.json-decode.php
+- decode data from api
+
